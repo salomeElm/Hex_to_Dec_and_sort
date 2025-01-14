@@ -1,4 +1,3 @@
-# Title: Maman 11 question 4     	
 # Author: Salome Dadouche	ID: 328603477       Date: 06.08.24
 # Input: The program gets a string of characters with a maximum length of 37 characters (actually 36).
 #	 The characters are pairs of digits in base 16 (byte size) separated by the '$' character.
